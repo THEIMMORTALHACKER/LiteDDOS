@@ -8,7 +8,7 @@ def usage():
     print "#---------------------------------------------#"
     print "#   \033[1;91mCommand: " "python2 WR.py " "<ip> <port> <packet> \033[1;32m   #"
     print "#                                                       #"
-    print "#\033[1;91mCreator:RIGNS#58  \033[1;32m##      ###       ## >>             #"
+    print "#\033[1;91mCreator:RIGNS.58  \033[1;32m##      ###       ## >>             #"
     print "#\033[1;91mTeam   : WR.py        \033[1;32m##     #           ##>>>           #"
     print "#\033[1;91mVersion:1.1        \033[1;32m##      ###       ## >>             #"
     print "#    ## \033[1;91m ##     \033[1;32m#  \033[1;91m##  \033[1;32m##                #"
