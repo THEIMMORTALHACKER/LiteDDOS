@@ -2,6 +2,13 @@ import time
 import socket
 import random
 import sys
+print "\33[37;1m==============="
+print "masukkan passwd"
+passwd = raw_input('passwd:\033[1;33m ')
+print "\033[1;31m[+] SALAH...\33[37;1m"
+print "==============="
+if passwd == "":
+	os.system('clear')
 def usage():
     print "\033[1;32m#####################################"
     print "#------[\033[1;91mTHEIMMORTALHACKER\033[1;32m]---#"
